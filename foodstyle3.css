@@ -1,0 +1,59 @@
+h1{
+    font-size: 70px;
+    text-transform: uppercase;
+    opacity: 100%;
+    
+}
+header{
+    background-color: rgb(148, 88, 73);
+    width: 100%;
+    margin: 0;
+    padding: 0;
+
+}
+main{
+    background-color:rgb(211, 69, 93);
+    opacity: 90%;
+width: 100%;
+
+}
+.img{
+    padding: 30px 40 px 50 px 40 px;
+    size: 100px;
+    margin: 40px;
+    width: 500px;
+    display:flex;
+    text-transform: uppercase;
+}
+.discription{
+    display: flex;
+    text-transform: uppercase; 
+    margin: 0;  
+}
+.p1{
+    margin-left: 10%;
+}
+.p2{
+    margin-left: 30%;
+}
+.p3{
+    margin-left: 10%;
+}
+a{
+    color: blue;
+    font-size: 40px;
+    text-decoration: none;
+}
+
+.img2{
+    width: 300px;
+    padding: 50px;
+}
+.img1{
+    width: 300px;
+    padding: 50px;
+}
+.img3{
+    width: 300px;
+    padding: 50px;
+}
